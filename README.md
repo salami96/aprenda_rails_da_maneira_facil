@@ -99,7 +99,7 @@ Com o V8 em mãos, os desenvolvedores decidiram que era hora de mudar tudo, cria
 
 Em conjunto com a quebra de convenções no backend, surgiu o Angular e com ele veio junto o conceito de Single Page Aplication (SPA). A ideia era que ao invés deixar o browser controlar as navegações entre páginas, que causavam o mesmo ter que reinterpretar todo o JavaScript/CSS novamente. Você baixava todo o JavaScript uma única vez e por meio do próprio JavaScript você fazia esse controle do que mostrar ou não da página, indo no servidor somente para consultar dados.
 
-Resumindo o SPA, alguém teve a brilhante ideia de reescreve o que o browser já fazia bem em JavaScript, gerando tantos problemas quanto você pode imaginar.
+Resumindo o SPA, alguém teve a brilhante ideia de reescrever o que o browser já fazia bem em JavaScript, gerando tantos problemas quanto você pode imaginar.
 
 E a partir daí, o desenvolvimento web passou a ser reescrever libs para resolver problemas que antes não existiam.
 
@@ -175,7 +175,7 @@ Abra o seu terminal e digite:
 gpg --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
 ```
 
-Esse comando irar adicionar as cahves GPD para verificação do pacote.
+Esse comando irar adicionar as chaves GPD para verificação do pacote.
 
 Depois basta rodar o comando:
 
